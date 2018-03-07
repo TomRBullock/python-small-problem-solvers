@@ -6,7 +6,7 @@
 
      example : 5^2 + 6^2 + 30^2 = 961
 
-            sqrt(961) = 31
+     sqrt(961) = 31
 
 
 * Anagram
